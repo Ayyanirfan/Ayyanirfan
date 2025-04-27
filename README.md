@@ -1,5 +1,8 @@
 👋 Hi there, I'm Ayyan Irfan!
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Aspiring+Full+Stack+Developer;Passionate+about+.NET+%7C+SQL+%7C+Web+Dev;Building+Cool+Stuff+Everyday!🚀" alt="Typing SVG" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Aspiring+Full+Stack+Developer;Passionate+about+.NET%20|%20SQL%20|%20Web%20Dev;Building+Cool+Stuff+Everyday!🚀" alt="Typing SVG" />
+</p>
+
 🧠 About Me
 👨‍💻 Currently working on ASP.NET Core Projects
 
