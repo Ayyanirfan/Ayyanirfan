@@ -18,9 +18,10 @@
 🔥 Contribution Streak
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayyanirfan&theme=highcontrast" alt="Streak Stats" /> </p>
 🌐 Let's Connect
-LinkedIn
+LinkedIn www.linkedin.com/in/
+ayyan-irfan-b92538304
 
-Portfolio Website
+
 
 💬 Favorite Quote
 🧠 “Dream big. Start small. Act now.” 🚀
